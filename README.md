@@ -1,1 +1,1 @@
-# JavaCodingChallenge
+# Java Coding Challenge
